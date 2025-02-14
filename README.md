@@ -11,3 +11,5 @@ Important Concepts:
   2.2. Working with DNS Query packet metadata
   
   2.3. Parse DNS query message for answer section A record (import binascii)
+
+Note: several .py files are written to demonstrate prototyping the implementation. The final solution is mydns.py
